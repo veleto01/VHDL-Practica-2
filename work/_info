@@ -1,0 +1,283 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+Eflipflopd
+Z0 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z1 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+32
+!s110 1578145937
+!i10b 1
+w0
+Z2 d//10.10.96.5/Home_VDI$$/m.garciaba.2019/Documents/ModleSim/practica2
+Z3 8//10.10.96.5/Home_VDI$$/m.garciaba.2019/Documents/ModleSim/practica2/flip-flops.vhd
+Z4 F//10.10.96.5/Home_VDI$$/m.garciaba.2019/Documents/ModleSim/practica2/flip-flops.vhd
+l0
+L4
+VgAB=H=gD36m>dT4NBDCR;3
+!s100 _86bG4F4d:HFffA@>aaAj1
+Z5 OV;C;10.5b;63
+Z6 !s108 1578145937.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/flip-flops.vhd|
+Z8 !s107 //10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/flip-flops.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Afuncional
+R0
+R1
+Z11 DEx4 work 9 flipflopd 0 22 gAB=H=gD36m>dT4NBDCR;3
+32
+Z12 !s110 1578145938
+!i10b 1
+l10
+L9
+V=6FREMO``LTT@:@IY4GKI3
+!s100 odUP6iUJ0MKT5N6NH3?;Q3
+R5
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Eflipflopjk
+R0
+R1
+32
+R12
+!i10b 1
+w0
+R2
+R3
+R4
+l0
+L28
+VBD>UBcNdAmOAb<U8iPR;m2
+!s100 g<YF2XU`bXF5GDknlH?G;2
+R5
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Afuncional
+R0
+R1
+Z13 DEx4 work 10 flipflopjk 0 22 BD>UBcNdAmOAb<U8iPR;m2
+32
+R12
+!i10b 1
+l36
+L33
+VW=Q;HPX50Ne6OiFdARWmB1
+!s100 ]Yo<lz298>IV^OJlC2@E21
+R5
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Eflipflopsr
+R0
+R1
+32
+R12
+!i10b 1
+w0
+R2
+R3
+R4
+l0
+L61
+VTD?<9_7j09>CgVgeo5c7L3
+!s100 5A<j1Bo;A0V:1>AW0J_=H1
+R5
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Afuncional
+R0
+R1
+DEx4 work 10 flipflopsr 0 22 TD?<9_7j09>CgVgeo5c7L3
+32
+R12
+!i10b 1
+l67
+L66
+VXiO>]mm@U35TM8iBW7F6V2
+!s100 ;VCza9iZjUQ[6NB0RYPU52
+R5
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Eflipflopt
+R0
+R1
+32
+R12
+!i10b 1
+w0
+R2
+R3
+R4
+l0
+L89
+Vc=LFeQIj:nC2Rm=^<]c_J3
+!s100 QIJzkhm8`F5En9;S3Cj>d3
+R5
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Afuncional
+R0
+R1
+DEx4 work 9 flipflopt 0 22 c=LFeQIj:nC2Rm=^<]c_J3
+32
+R12
+!i10b 1
+l96
+L94
+VfQUfMOcCDIVDlAMGdz=Ni2
+!s100 I]TTj8`nV`HKhf<OKM[lU0
+R5
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Epractica_2
+R0
+R1
+32
+R12
+!i10b 1
+w0
+R2
+Z14 8//10.10.96.5/Home_VDI$$/m.garciaba.2019/Documents/ModleSim/practica2/practica_2.vhd
+Z15 F//10.10.96.5/Home_VDI$$/m.garciaba.2019/Documents/ModleSim/practica2/practica_2.vhd
+l0
+L74
+VklEX>nz[X@D8Q>PV5HdUT1
+!s100 0OWC1n3>8gGmT2:3zm`EM1
+R5
+Z16 !s108 1578145938.000000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/practica_2.vhd|
+Z18 !s107 //10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/practica_2.vhd|
+!i113 1
+R9
+R10
+Afsm_funcional
+R0
+R1
+Z19 DEx4 work 10 practica_2 0 22 klEX>nz[X@D8Q>PV5HdUT1
+32
+R12
+!i10b 1
+l89
+L81
+Vh6_7DfF@L5W@P9:JX^?6i2
+!s100 9CI0nJOA<T0Omem0W<b9>0
+R5
+R16
+R17
+R18
+!i113 1
+R9
+R10
+Aestructural_jk
+R13
+R0
+R1
+R19
+32
+R12
+!i10b 1
+l50
+L44
+Vbj8cmieBO2KT_?nbZ?Ign1
+!s100 JFKi]Lz^CVggDne=[E9=d0
+R5
+R16
+R17
+R18
+!i113 1
+R9
+R10
+Aestructural_d
+R11
+R0
+R1
+R19
+32
+R12
+!i10b 1
+l17
+L12
+V5z>SgTOn>P<?C0]Hf:k5a3
+!s100 VMUGhi2HccXmj4CVDiLRe1
+R5
+R16
+R17
+R18
+!i113 1
+R9
+R10
+Etest_multiple_2
+R0
+R1
+32
+R12
+!i10b 1
+w0
+R2
+Z20 8//10.10.96.5/Home_VDI$$/m.garciaba.2019/Documents/ModleSim/practica2/test_bench_practica2.vhd
+Z21 F//10.10.96.5/Home_VDI$$/m.garciaba.2019/Documents/ModleSim/practica2/test_bench_practica2.vhd
+l0
+L4
+VPfAPzERTmZDmG8zX8dG<j0
+!s100 <Nik4WkWW2eNmYURLI`IO1
+R5
+R16
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/test_bench_practica2.vhd|
+Z23 !s107 //10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/test_bench_practica2.vhd|
+!i113 1
+R9
+R10
+Atest
+R19
+R0
+R1
+DEx4 work 15 test_multiple_2 0 22 PfAPzERTmZDmG8zX8dG<j0
+32
+R12
+!i10b 1
+l11
+L7
+Vm6^LEC6]za4ibPBDXIh0U2
+!s100 Nan_Wfzg]YCBRzPjJz8R02
+R5
+R16
+R22
+R23
+!i113 1
+R9
+R10

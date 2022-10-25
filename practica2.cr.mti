@@ -1,0 +1,87 @@
+{//10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/test_bench_practica2.vhd} {1 {vcom -work work -2002 -explicit -stats=none {//10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/test_bench_practica2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity test_multiple_2
+-- Compiling architecture test of test_multiple_2
+-- Loading entity practica_2
+
+} {} {}} {{//10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/test_bench_practica2.vhd}} {1 {vcom -work work -2002 -explicit {//10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/test_bench_practica2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 09:51:20 on Dec 13,2019
+vcom -reportprogress 300 -work work -2002 -explicit //10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/test_bench_practica2.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity test_multiple_2
+-- Compiling architecture test of test_multiple_2
+-- Loading entity practica_2
+End time: 09:51:20 on Dec 13,2019, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {//10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/practica_2.vhd} {1 {vcom -work work -2002 -explicit -stats=none {//10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/practica_2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity practica_2
+-- Compiling architecture estructural_D of practica_2
+-- Loading entity flipflopD
+-- Compiling entity practica_2
+-- Compiling architecture estructural_JK of practica_2
+-- Loading entity flipflopJK
+-- Compiling entity practica_2
+-- Compiling architecture fsm_funcional of practica_2
+
+} {} {}} {//10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/flip-flops.vhd} {1 {vcom -work work -2002 -explicit -stats=none {//10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/flip-flops.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity flipflopD
+-- Compiling architecture funcional of flipflopD
+-- Compiling entity flipflopJK
+-- Compiling architecture funcional of flipflopJK
+-- Compiling entity flipflopSR
+-- Compiling architecture funcional of flipflopSR
+-- Compiling entity flipflopT
+-- Compiling architecture funcional of flipflopT
+
+} {} {}} {{//10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/practica_2.vhd}} {1 {vcom -work work -2002 -explicit {//10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/practica_2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 09:51:20 on Dec 13,2019
+vcom -reportprogress 300 -work work -2002 -explicit //10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/practica_2.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity practica_2
+-- Compiling architecture estructural_D of practica_2
+-- Loading entity flipflopD
+-- Compiling entity practica_2
+-- Compiling architecture estructural_JK of practica_2
+-- Loading entity flipflopJK
+-- Compiling entity practica_2
+-- Compiling architecture fsm_funcional of practica_2
+End time: 09:51:20 on Dec 13,2019, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{//10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/flip-flops.vhd}} {1 {vcom -work work -2002 -explicit {//10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/flip-flops.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 09:51:20 on Dec 13,2019
+vcom -reportprogress 300 -work work -2002 -explicit //10.10.96.5/Home_VDI$/m.garciaba.2019/Documents/ModleSim/practica2/flip-flops.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity flipflopD
+-- Compiling architecture funcional of flipflopD
+-- Compiling entity flipflopJK
+-- Compiling architecture funcional of flipflopJK
+-- Compiling entity flipflopSR
+-- Compiling architecture funcional of flipflopSR
+-- Compiling entity flipflopT
+-- Compiling architecture funcional of flipflopT
+End time: 09:51:20 on Dec 13,2019, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}}
